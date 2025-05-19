@@ -30,7 +30,7 @@ class HelpAndSupport extends StatelessWidget {
           child: Container(
             padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
             decoration: BoxDecoration(
-              color: const Color(0xFFF0F2FF),
+
               borderRadius: BorderRadius.circular(4),
             ),
             child: const Text(
